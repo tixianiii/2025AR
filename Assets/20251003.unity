@@ -239,7 +239,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a1904408e0e5c62459bd4a47941050e0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.56872
+      value: -0.577
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a1904408e0e5c62459bd4a47941050e0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -247,7 +247,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a1904408e0e5c62459bd4a47941050e0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.34541
+      value: -0.33
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a1904408e0e5c62459bd4a47941050e0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ed093621d8d342e9b74c757be4c323b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackerCam: {fileID: 0}
+  trackerCam: {fileID: 1911562454814557955}
   imageTargets:
   - id: mickey-mouse
     transform: {fileID: 6165433821251679981}
@@ -470,7 +470,7 @@ MonoBehaviour:
   trackedIds: []
   trackerSettings:
     maxSimultaneousTargets: 1
-    targetFrameRate: 60
+    targetFrameRate: -1
     advancedSettings:
       maxFrameLength: 500
       maxFrameArea: 80
@@ -503,11 +503,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3270877501442276746, guid: 41aa49b2bb6a2ec45b724c45cbf02f7e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.243
       objectReference: {fileID: 0}
     - target: {fileID: 3270877501442276746, guid: 41aa49b2bb6a2ec45b724c45cbf02f7e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.258
       objectReference: {fileID: 0}
     - target: {fileID: 3270877501442276746, guid: 41aa49b2bb6a2ec45b724c45cbf02f7e, type: 3}
       propertyPath: m_LocalPosition.z
